@@ -25,8 +25,8 @@
 
 ## Abortion Storytelling
 
-- #ShoutYourAbortion
-- WeTestify
+- [#ShoutYourAbortion](https://shoutyourabortion.com/) — Abortion advocacy through narrative and storytelling.
+- [WeTestify](https://wetestify.org/) — Diverse community of abortion storytellers with a focus on underrepresented voices.
 
 ## Emotional Support
 
