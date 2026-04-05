@@ -34,6 +34,8 @@
 
 - [All Options](https://www.all-options.org/) — Organization powered by compassionate volunteers acting as peer advocates for anyone going through pregnancy, abortion, adoption, infertility, etc. The All-Options talkline is open M-Fri 10-1am, Sa-Su 10-6 EST. You can reach them (888) 493-0092.
 - [M + A Hotline](https://mahotline.org/) — The miscarriage and abortion hotline is run by volunteer clinicians who can be reached via call or text at (833) 246-2632.
+- [Connect & Breathe](https://www.connectandbreathe.org/) — Another talkline offering non-judgemental support for people going through abortion. They are available Monday 7-10pm, Tuesday & Thursday 6-9pm, and Saturday 12-3pm ET. To reach them, call (866) 647-1764.
+- [Reprocare](https://www.reprocare.com/) — Another talkine offering similar support as the other organizations in this list. Reprocare is available 12 PM - 12 AM EST and can be reached via call or text at (833) 226-7821.
 
 ## Legal Support
 
