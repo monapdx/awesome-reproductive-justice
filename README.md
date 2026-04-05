@@ -22,7 +22,8 @@
 ## Abortion Stigma
 
 - [2+ Abortions Worldwide](https://www.2plusabortions.com/) — Supportive community taking a stand against abortion stigma and with a focus on people who have had multiple abortions.
-- [Repro Uncensored](https://www.reprouncensored.org/) — Repro Uncensored does the important work of tracking cases of censorship when it comes to abortion information online on mainstream platforms like Facebook and other social media sites. 
+- [Repro Uncensored](https://www.reprouncensored.org/) — Repro Uncensored does the important work of tracking cases of censorship when it comes to abortion information online on mainstream platforms like Facebook and other social media sites.
+- [inroads](https://www.makeinroads.org/) — The _International Network for the Reduction of Abortion Discrimination and Stigma_ produces some of the highest quality training on how to combat abortion stigma on a global scale. 
 
 ## Abortion Storytelling
 
@@ -32,7 +33,7 @@
 ## Activism & Advocacy
 
 - [Reproaction](https://reproaction.org/) — Extensive library of training and resources for abortion activists, particulary if you learn best by watching engaging and informative video content.
-- []()
+- [Ultraviolet](https://weareultraviolet.org/) — An advocacy and activism powerhouse for reproductive justice and feminist causes.
 
 ## Emotional Support
 
