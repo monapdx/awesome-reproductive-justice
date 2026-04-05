@@ -12,10 +12,10 @@
 
 ## Abortion Pills
 
-- Women on Web
-- HeyJane
-- Plan C Pills
-- AidAccess
+- [Women on Web](https://www.womenonweb.org/en/home-en/) — Provides safe abortion pill access by mail.
+- [HeyJane](https://www.heyjane.com/) — Offers virtual consultations and telehealth options for obtaining abortion pills.
+- [Plan C Pills](https://www.plancpills.org/) — Information on all things related to Plan C pills.
+- [AidAccess](https://aidaccess.org/en/) — For patients less than 14 weeks pregnant, AidAccess will ship you abortion pills for $150.
 
 ## Abortion Stigma
 
