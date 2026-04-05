@@ -44,9 +44,8 @@
 
 ## Safety & Privacy
 
-- Digital Defense Network
-- Cover Your Tracks
-- Atlas of Surveillance
+- [Cover Your Tracks](https://coveryourtracks.eff.org/) — Free privacy tool from Electronic Frontier Foundation that helps you measure how much you are being tracked and fingerprinted while online.
+- [Atlas of Surveillance](https://www.atlasofsurveillance.org/) — This tool (also by EFF) helps cities keep track of the technologies being used by law enforcement.
 
 ## Repro Justice Podcasts
 
