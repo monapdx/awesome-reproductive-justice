@@ -1,6 +1,8 @@
 # Awesome Reproductive Justice
 
-<img src="https://raw.githubusercontent.com/monapdx/awesome-reproductive-justice/refs/heads/main/Reproductive-Justice-4-5-2026.png">
+> A curated list of high-quality abortion and reproductive justice resources, organizations, and tools.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Abortion Clinics
 
