@@ -41,34 +41,34 @@
 
 ## Emotional Support
 
-- [All Options](https://www.all-options.org/) — Organization powered by compassionate volunteers acting as peer advocates for anyone going through pregnancy, abortion, adoption, infertility, etc. The All-Options talkline is open M-Fri 10-1am, Sa-Su 10-6 EST. You can reach them (888) 493-0092.
-- [M + A Hotline](https://mahotline.org/) — The miscarriage and abortion hotline is run by volunteer clinicians who can be reached via call or text at (833) 246-2632.
-- [Connect & Breathe](https://www.connectandbreathe.org/) — Another talkline offering non-judgemental support for people going through abortion. They are available Monday 7-10pm, Tuesday & Thursday 6-9pm, and Saturday 12-3pm ET. To reach them, call (866) 647-1764.
-- [Reprocare](https://www.reprocare.com/) — Another talkine offering similar support as the other organizations in this list. Reprocare is available 12 PM - 12 AM EST and can be reached via call or text at (833) 226-7821.
+- [All-Options](https://www.all-options.org/) — Peer support for pregnancy, abortion, adoption, and infertility.
+- [M + A Hotline](https://mahotline.org/) — Miscarriage and abortion hotline run by volunteer clinicians.
+- [Connect & Breathe](https://www.connectandbreathe.org/) — Another talkline offering non-judgemental support for people going through abortion.
+- [Reprocare](https://www.reprocare.com/) — Talkine offering similar support as the other organizations in this list.
 
 ## Legal Support
 
-- [If / When / How](https://ifwhenhow.org/) — If your pregnancy or abortion has resulted in an arrest or other legal issues, the lawyers and advocates at If/When/How want to help. Call (844) 868-2812 if you need free legal help.
+- [If/When/How](https://ifwhenhow.org/) — Provides legal support and advocacy for reproductive justice cases.
 - [Repro Legal Helpline](https://reprolegalhelpline.org/) — Another project of If/When/How.
 
 ## Research & Studies
 
 - [ANSIRH](https://www.ansirh.org/) — _Advancing New Standards in Reproductive Health_ (ANSIRH) is a program within the _UCSF Bixby Center for Global Reproductive Health_ and is a part of UCSF's _Department of Obstetrics, Gynecology & Reproductive Sciences_.
-- [Guttmacher](https://www.guttmacher.org/) — The _Guttmacher Institute_ is a non-profit focusing on what the actual data behind abortion is trying to tell us. 
+- [Guttmacher Institute](https://www.guttmacher.org/) — Research organization focused on reproductive health policy and data.
 
 ## Safety & Privacy
 
-- [Cover Your Tracks](https://coveryourtracks.eff.org/) — Free privacy tool from _Electronic Frontier Foundation_ that helps you measure how much you are being tracked and fingerprinted while online.
+- [Cover Your Tracks](https://coveryourtracks.eff.org/) — Tool from EFF to measure online tracking and browser fingerprinting.
 - [Atlas of Surveillance](https://www.atlasofsurveillance.org/) — This tool (also by EFF) helps cities keep track of the technologies being used by law enforcement.
 - [Guide to Abortion Privacy](https://digitaldefensefund.org/ddf-guides/abortion-privacy) — A useful threat-level detection guide from _Digital Defense Fund_.
 
 ## Repro Justice Podcasts
 
 - [Feminist Buzzkills Podcast](https://www.aafront.org/fbklive/) — Weekly podcast that drops new episodes on Friday from Lizz Winstead and Moji Alawode-El over at _Abortion Access Front_.
-- [We Are Childfree Podcast](https://wearechildfree.com/podcasts/) — People who are childfree by choice are often overlooked through a lens of reproductive justice, but I could never have made the choice myself without the seven abortions I went through in order to make it.
+- [We Are Childfree Podcast](https://wearechildfree.com/podcasts/) — Explores childfree lives and perspectives within reproductive autonomy.
 
 ## Repro Justice Documentaries
 
-- [After Tiller (2013)](https://www.pbs.org/pov/films/aftertiller/) — Before being murdered in 2009, Dr. Tiller was one of only a small handful of doctors performing third trimester abortions in the United States.
+- [After Tiller (2013)](https://www.pbs.org/pov/films/aftertiller/) — Documentary about physicians providing later abortion care in the U.S.
 
 
