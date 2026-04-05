@@ -7,9 +7,8 @@
 
 ## Abortion Funds
 
-- National Network of Abortion Funds
-- Brigid Alliance
-- Midwest Access Coalition
+- [National Network of Abortion Funds](https://abortionfunds.org/) — Network of around 100 grassroots abortion funds located all over the country, helping patients cover costs of accessing repro healthcare.
+- [Midwest Access Coalition](https://www.midwestaccesscoalition.org/) — Abortion fund serving patients in several midwestern states, helping to cover costs of abortion procedures as well as transportation and childcare.
 
 ## Abortion Pills
 
