@@ -30,13 +30,13 @@
 
 ## Emotional Support
 
-- All Options
-- M + A Hotline
+- [All Options](https://www.all-options.org/) — Organization powered by compassionate volunteers acting as peer advocates for anyone going through pregnancy, abortion, adoption, infertility, etc. The All-Options talkline is open M-Fri 10-1am, Sa-Su 10-6 EST. You can reach them (888) 493-0092.
+- [M + A Hotline](https://mahotline.org/) — The miscarriage and abortion hotline is run by volunteer clinicians who can be reached via call or text at (833) 246-2632.
 
 ## Legal Support
 
-- If / When / How
-- Repro Legal Defense Fund
+- [If / When / How](https://ifwhenhow.org/) — If your pregnancy or abortion has resulted in an arrest or other legal issues, the lawyers and advocates at If/When/How want to help. Call (844) 868-2812 if you need free legal help.
+- [Repro Legal Helpline](https://reprolegalhelpline.org/) — Another project of If/When/How.
 
 ## Data & Maps
 
