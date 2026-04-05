@@ -29,6 +29,7 @@
 
 - [#ShoutYourAbortion](https://shoutyourabortion.com/) — Abortion advocacy through narrative and storytelling.
 - [WeTestify](https://wetestify.org/) — Diverse community of abortion storytellers with a focus on underrepresented voices.
+- [Stories for Choice](https://tmiproject.org/storiesforchoice/) — In both 2022 and 2023, _TMI Project_ worked with groups who had stories to share about reproductive justice and choice.
 
 ## Activism & Advocacy
 
@@ -49,17 +50,17 @@
 
 ## Research & Studies
 
-- [ANSIRH](https://www.ansirh.org/) — Advancing New Standards in Reproductive Health (ANSIRH) is a program within the UCSF Bixby Center for Global Reproductive Health and is a part of UCSF's Department of Obstetrics, Gynecology & Reproductive Sciences.
-- [Guttmacher](https://www.guttmacher.org/) — The Guttmacher Institute is a non-profit focusing on what the actual data behind abortion is trying to tell us. 
+- [ANSIRH](https://www.ansirh.org/) — _Advancing New Standards in Reproductive Health_ (ANSIRH) is a program within the _UCSF Bixby Center for Global Reproductive Health_ and is a part of UCSF's _Department of Obstetrics, Gynecology & Reproductive Sciences_.
+- [Guttmacher](https://www.guttmacher.org/) — The _Guttmacher Institute_ is a non-profit focusing on what the actual data behind abortion is trying to tell us. 
 
 ## Safety & Privacy
 
-- [Cover Your Tracks](https://coveryourtracks.eff.org/) — Free privacy tool from Electronic Frontier Foundation that helps you measure how much you are being tracked and fingerprinted while online.
+- [Cover Your Tracks](https://coveryourtracks.eff.org/) — Free privacy tool from _Electronic Frontier Foundation_ that helps you measure how much you are being tracked and fingerprinted while online.
 - [Atlas of Surveillance](https://www.atlasofsurveillance.org/) — This tool (also by EFF) helps cities keep track of the technologies being used by law enforcement.
 
 ## Repro Justice Podcasts
 
-- [Feminist Buzzkills Podcast](https://www.aafront.org/fbklive/) — Weekly podcast that drops new episodes on Friday from Lizz Winstead and Moji Alawode-El over at Abortion Access Front.
+- [Feminist Buzzkills Podcast](https://www.aafront.org/fbklive/) — Weekly podcast that drops new episodes on Friday from Lizz Winstead and Moji Alawode-El over at _Abortion Access Front_.
 - [We Are Childfree Podcast](https://wearechildfree.com/podcasts/) — People who are childfree by choice are often overlooked through a lens of reproductive justice, but I could never have made the choice myself without the seven abortions I went through in order to make it.
 
 ## Repro Justice Documentaries
