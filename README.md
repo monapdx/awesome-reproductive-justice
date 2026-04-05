@@ -6,37 +6,37 @@
 
 ## Abortion Clinics
 
-- [iNeedanA](https://www.ineedana.com/) — I Need An A can help you learn about all your abortion options and find the most up to date information about abortion clinics, pills by mail, state abortion laws, and support.
-- [AbortionFinder]( https://www.abortionfinder.org/) — The most comprehensive directory of trusted (and verified) abortion service providers and assistance resources in the United States.
+- [iNeedanA](https://www.ineedana.com/) — Helps users find abortion providers, pills by mail, legal info, and support resources.
+- [AbortionFinder](https://www.abortionfinder.org/) — Directory of verified abortion providers and support resources in the U.S.
 
 ## Abortion Funds
 
-- [National Network of Abortion Funds](https://abortionfunds.org/) — Network of around 100 grassroots abortion funds located all over the country, helping patients cover costs of accessing repro healthcare.
-- [Midwest Access Coalition](https://www.midwestaccesscoalition.org/) — Abortion fund serving patients in several midwestern states, helping to cover costs of abortion procedures as well as transportation and childcare.
+- [National Network of Abortion Funds](https://abortionfunds.org/) — Network of grassroots funds helping patients cover abortion and related care costs.
+- [Midwest Access Coalition](https://www.midwestaccesscoalition.org/) — Provides financial, logistical, and travel support for abortion access in the Midwest.
 
 ## Abortion Pills
 
-- [Women on Web](https://www.womenonweb.org/en/home-en/) — Provides safe abortion pill access by mail.
+- [Women on Web](https://www.womenonweb.org/en/home-en/) — Provides abortion pills by mail internationally.
 - [HeyJane](https://www.heyjane.com/) — Offers virtual consultations and telehealth options for obtaining abortion pills.
-- [Plan C Pills](https://www.plancpills.org/) — Information on all things related to Plan C pills.
-- [AidAccess](https://aidaccess.org/en/) — For patients less than 14 weeks pregnant, AidAccess will ship you abortion pills for $150.
+- [Plan C Pills](https://www.plancpills.org/) — Guide to accessing abortion pills by mail, including provider comparisons and legal updates.
+- [Aid Access](https://aidaccess.org/en/) — Provides abortion pills by mail for pregnancies under 14 weeks.
 - [Just The Pill](https://justthepill.com/) — Provides telehealth and online consultations as well as abortion pills to patients in MN, CO, WY, and MT.
 
 ## Abortion Stigma
 
-- [2+ Abortions Worldwide](https://www.2plusabortions.com/) — Supportive community taking a stand against abortion stigma and with a focus on people who have had multiple abortions.
-- [Repro Uncensored](https://www.reprouncensored.org/) — Repro Uncensored does the important work of tracking cases of censorship when it comes to abortion information online on mainstream platforms like Facebook and other social media sites.
-- [inroads](https://www.makeinroads.org/) — The _International Network for the Reduction of Abortion Discrimination and Stigma_ produces some of the highest quality training on how to combat abortion stigma on a global scale. 
+- [2+ Abortions Worldwide](https://www.2plusabortions.com/) — Community supporting people with multiple abortion experiences and challenging stigma.
+- [Repro Uncensored](https://www.reprouncensored.org/) — Tracks censorship of abortion-related content on major platforms.
+- [inroads](https://www.makeinroads.org/) — Global network offering training and resources to reduce abortion stigma. 
 
 ## Abortion Storytelling
 
 - [#ShoutYourAbortion](https://shoutyourabortion.com/) — Abortion advocacy through narrative and storytelling.
 - [WeTestify](https://wetestify.org/) — Diverse community of abortion storytellers with a focus on underrepresented voices.
-- [Stories for Choice](https://tmiproject.org/storiesforchoice/) — In both 2022 and 2023, _TMI Project_ worked with groups who had stories to share about reproductive justice and choice.
+- [Stories for Choice](https://tmiproject.org/storiesforchoice/) — Storytelling initiative sharing personal narratives about reproductive justice.
 
 ## Activism & Advocacy
 
-- [Reproaction](https://reproaction.org/) — Extensive library of training and resources for abortion activists, particulary if you learn best by watching engaging and informative video content.
+- [Reproaction](https://reproaction.org/) — Provides training, campaigns, and resources for abortion rights activism.
 - [Ultraviolet](https://weareultraviolet.org/) — An advocacy and activism powerhouse for reproductive justice and feminist causes.
 
 ## Emotional Support
