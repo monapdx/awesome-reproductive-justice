@@ -55,6 +55,7 @@
 ## Repro Justice Podcasts
 
 - [Feminist Buzzkills Podcast](https://www.aafront.org/fbklive/) — Weekly podcast that drops new episodes on Friday from Lizz Winstead and Moji Alawode-El over at Abortion Access Front.
+- [We Are Childfree Podcast](https://wearechildfree.com/podcasts/) — People who are childfree by choice are often overlooked through a lens of reproductive justice, but I could never have made the choice myself without the seven abortions I went through in order to make it.
 
 ## Repro Justice Documentaries
 
