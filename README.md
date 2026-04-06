@@ -66,9 +66,12 @@
 
 - [Feminist Buzzkills Podcast](https://www.aafront.org/fbklive/) — Weekly podcast that drops new episodes on Friday from Lizz Winstead and Moji Alawode-El over at _Abortion Access Front_.
 - [We Are Childfree Podcast](https://wearechildfree.com/podcasts/) — Explores childfree lives and perspectives within reproductive autonomy.
+- [Access: A podcast about abortion](https://www.apodcastaboutabortion.com/) — Story-driven podcast focused on real abortion experiences and the broader context of reproductive justice.
 
 ## Repro Justice Documentaries
 
 - [After Tiller (2013)](https://www.pbs.org/pov/films/aftertiller/) — Documentary about physicians providing later abortion care in the U.S.
+- [Battleground](https://battlegroundfilm.org/) — Documentary exploring the intersection of abortion and politics in the U.S., including anti-abortion organizing and efforts to maintain access.
+- [Vessel](https://vesselthefilm.com/) — Documentary following Dr. Rebecca Gomperts and Women on Waves, who provide abortion access in countries where it is restricted or illegal.
 
 
