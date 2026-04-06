@@ -24,7 +24,7 @@
 
 - [iNeedanA](https://www.ineedana.com/) — Helps users find abortion providers, pills by mail, legal info, and support resources.
 - [AbortionFinder](https://www.abortionfinder.org/) — Directory of verified abortion providers and support resources in the U.S.
-- [Trust Women] — Provides abortion care and reproductive health services in underserved regions, along with advocacy to expand access.
+- [Trust Women](https://trustwomen.org/) — Provides abortion care and reproductive health services in underserved regions, along with advocacy to expand access.
 
 ## Abortion Funds
 
