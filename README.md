@@ -4,6 +4,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<img src="https://raw.githubusercontent.com/monapdx/awesome-reproductive-justice/refs/heads/main/Reproductive-Justice-4-6-2026%20(2).gif">
+
 ## Contents
 
 - Abortion Clinics
