@@ -57,6 +57,7 @@
 
 - [ANSIRH](https://www.ansirh.org/) — _Advancing New Standards in Reproductive Health_ (ANSIRH) is a program within the _UCSF Bixby Center for Global Reproductive Health_ and is a part of UCSF's _Department of Obstetrics, Gynecology & Reproductive Sciences_.
 - [Guttmacher Institute](https://www.guttmacher.org/) — Research organization focused on reproductive health policy and data.
+- [The United States of Abortion Mazes](https://pudding.cool/2024/10/abortion-mazes/) — Interactive data visualization that represents abortion access across U.S. states as mazes shaped by legal and policy barriers.
 
 ## Safety & Privacy
 
