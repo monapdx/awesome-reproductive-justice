@@ -8,6 +8,7 @@
 
 - [iNeedanA](https://www.ineedana.com/) — Helps users find abortion providers, pills by mail, legal info, and support resources.
 - [AbortionFinder](https://www.abortionfinder.org/) — Directory of verified abortion providers and support resources in the U.S.
+- [Abortion Clinics](https://www.abortionclinics.com/)
 
 ## Abortion Funds
 
@@ -38,6 +39,8 @@
 
 - [Reproaction](https://reproaction.org/) — Provides training, campaigns, and resources for abortion rights activism.
 - [Ultraviolet](https://weareultraviolet.org/) — An advocacy and activism powerhouse for reproductive justice and feminist causes.
+- [Planned Parenthood Action Fund](https://www.plannedparenthoodaction.org/act) — Platform for engaging in reproductive rights advocacy through petitions, campaigns, and voter mobilization.
+- [Physicians for Reproductive Health](https://prh.org/) — Network of medical providers advocating for reproductive health care access through education, training, and policy advocacy.
 
 ## Emotional Support
 
