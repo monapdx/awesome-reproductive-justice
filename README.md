@@ -15,6 +15,8 @@
 - [Midwest Access Coalition](https://www.midwestaccesscoalition.org/) — Provides financial, logistical, and travel support for abortion access in the Midwest.
 - [WRRAP (Women’s Reproductive Rights Assistance Project)](https://wrrap.org/) — National nonprofit that helps cover abortion and emergency contraception costs through direct support to clinics.
 - [Elevated Access](https://www.elevatedaccess.org/) — Volunteer pilot network offering free flights to help patients travel across state lines for abortion care.
+- [Northwest Abortion Access Fund](https://nwaafund.org/) — Regional abortion fund serving Washington, Oregon, Idaho, and Alaska, providing financial assistance, travel support, and lodging for abortion care.
+- [ACCESS Reproductive Justice](https://accessrj.org/) — Provides funding, practical support, referrals, and advocacy to help people access reproductive healthcare, including abortion, in California.
 
 ## Abortion Pills
 
@@ -42,6 +44,7 @@
 - [Ultraviolet](https://weareultraviolet.org/) — An advocacy and activism powerhouse for reproductive justice and feminist causes.
 - [Planned Parenthood Action Fund](https://www.plannedparenthoodaction.org/act) — Platform for engaging in reproductive rights advocacy through petitions, campaigns, and voter mobilization.
 - [Physicians for Reproductive Health](https://prh.org/) — Network of medical providers advocating for reproductive health care access through education, training, and policy advocacy.
+- [Whole Woman’s Health Alliance](https://www.wholewomanshealthalliance.org/) — Nonprofit providing abortion care, community support, and advocacy focused on expanding access and reducing stigma.
 
 ## Emotional Support
 
@@ -57,6 +60,7 @@
 - [Abortion Defense Network](https://abortiondefensenetwork.org/) — Network providing legal defense, advice, and funding support for those facing legal risks related to abortion care.
 - [The Lawyering Project](https://lawyeringproject.org/) — Nonprofit legal organization providing litigation, legal guidance, and pro bono support to improve abortion access and protect reproductive health care.
 - [Abortion Access Legal Defense Fund](https://nwlc.org/abortion-access-legal-defense-fund/) — Fund helping cover legal costs for individuals facing civil or criminal consequences related to abortion care.
+- [Jane’s Due Process](https://janesdueprocess.org/) — Helps young people in Texas confidentially access abortion and birth control, including legal support navigating parental involvement laws and judicial bypass.
 
 ## Research & Studies
 
