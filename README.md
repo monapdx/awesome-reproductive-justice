@@ -4,6 +4,22 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Contents
+
+- Abortion Clinics
+- Abortion Funds
+- Travel & Practical Support
+- Abortion Pills
+- Abortion Stigma
+- Abortion Storytelling
+- Activism & Advocacy
+- Emotional Support
+- Legal Support
+- Laws, Policy & Data
+- Safety & Privacy
+- Repro Justice Podcasts
+- Repro Justice Documentaries
+
 ## Abortion Clinics
 
 - [iNeedanA](https://www.ineedana.com/) — Helps users find abortion providers, pills by mail, legal info, and support resources.
@@ -15,11 +31,14 @@
 - [National Network of Abortion Funds](https://abortionfunds.org/) — Network of grassroots funds helping patients cover abortion and related care costs.
 - [Midwest Access Coalition](https://www.midwestaccesscoalition.org/) — Provides financial, logistical, and travel support for abortion access in the Midwest.
 - [WRRAP (Women’s Reproductive Rights Assistance Project)](https://wrrap.org/) — National nonprofit that helps cover abortion and emergency contraception costs through direct support to clinics.
-- [Elevated Access](https://www.elevatedaccess.org/) — Volunteer pilot network offering free flights to help patients travel across state lines for abortion care.
 - [Northwest Abortion Access Fund](https://nwaafund.org/) — Regional abortion fund serving Washington, Oregon, Idaho, and Alaska, providing financial assistance, travel support, and lodging for abortion care.
-- [ACCESS Reproductive Justice](https://accessrj.org/) — Provides funding, practical support, referrals, and advocacy to help people access reproductive healthcare, including abortion, in California.
+
+## Travel & Practical Support
+
+- [Elevated Access](https://www.elevatedaccess.org/) — Volunteer pilot network offering free flights to help patients travel across state lines for abortion care.
 - [Fund Texas Choice](https://fundtexaschoice.org/) — Nonprofit funding and coordinating travel, lodging, and other practical support for Texans accessing abortion care outside the state.
 - [Cascades Abortion Support Collective](https://www.cascadesabortionsupport.org/) — Volunteer-run collective providing free logistical, emotional, and informational support for people accessing abortion in Oregon.
+- [ACCESS Reproductive Justice](https://accessrj.org/) — Provides funding, practical support, referrals, and advocacy to help people access reproductive healthcare, including abortion, in California.
 
 ## Abortion Pills
 
@@ -68,7 +87,7 @@
 - [Abortion Access Legal Defense Fund](https://nwlc.org/abortion-access-legal-defense-fund/) — Fund helping cover legal costs for individuals facing civil or criminal consequences related to abortion care.
 - [Jane’s Due Process](https://janesdueprocess.org/) — Helps young people in Texas confidentially access abortion and birth control, including legal support navigating parental involvement laws and judicial bypass.
 
-## Research & Studies
+## Laws, Policy & Data
 
 - [ANSIRH](https://www.ansirh.org/) — _Advancing New Standards in Reproductive Health_ (ANSIRH) is a program within the _UCSF Bixby Center for Global Reproductive Health_ and is a part of UCSF's _Department of Obstetrics, Gynecology & Reproductive Sciences_.
 - [Guttmacher Institute](https://www.guttmacher.org/) — Research organization focused on reproductive health policy and data.
