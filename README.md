@@ -4,6 +4,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Submit Resource](https://img.shields.io/badge/Submit%20Resource-%23FF009C?style=for-the-badge)](https://github.com/monapdx/awesome-reproductive-justice/issues/new?template=resource-suggestion.yml)
+
 <img src="https://raw.githubusercontent.com/monapdx/awesome-reproductive-justice/refs/heads/main/Reproductive-Justice-4-6-2026%20(2).gif">
 
 ## Contents
@@ -21,6 +23,8 @@
 - Safety & Privacy
 - Repro Justice Podcasts
 - Repro Justice Documentaries
+
+👉 [Submit a resource](https://github.com/monapdx/awesome-reproductive-justice/issues/new?template=resource-suggestion.yml)
 
 ## Abortion Clinics
 
