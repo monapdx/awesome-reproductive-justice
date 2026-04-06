@@ -8,7 +8,6 @@
 
 - [iNeedanA](https://www.ineedana.com/) — Helps users find abortion providers, pills by mail, legal info, and support resources.
 - [AbortionFinder](https://www.abortionfinder.org/) — Directory of verified abortion providers and support resources in the U.S.
-- [Abortion Clinics](https://www.abortionclinics.com/)
 
 ## Abortion Funds
 
