@@ -99,7 +99,7 @@
 ## Safety & Privacy
 
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) — Tool from EFF to measure online tracking and browser fingerprinting.
-- [Atlas of Surveillance] — Tool from the Electronic Frontier Foundation tracking surveillance technologies used by law enforcement.
+- [Atlas of Surveillance](https://www.atlasofsurveillance.org/) — Tool from the Electronic Frontier Foundation tracking surveillance technologies used by law enforcement.
 - [Guide to Abortion Privacy](https://digitaldefensefund.org/ddf-guides/abortion-privacy) — A useful threat-level detection guide from _Digital Defense Fund_.
 - [DOPo Support](https://www.wearedopo.com/support) — Provides digital privacy and security resources for people seeking abortion care, including guidance on protecting personal data and online activity.
 
