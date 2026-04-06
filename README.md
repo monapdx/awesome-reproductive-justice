@@ -76,12 +76,12 @@
 - [All-Options](https://www.all-options.org/) — Peer support for pregnancy, abortion, adoption, and infertility.
 - [M + A Hotline](https://mahotline.org/) — Miscarriage and abortion hotline run by volunteer clinicians.
 - [Connect & Breathe](https://www.connectandbreathe.org/) — Another talkline offering non-judgemental support for people going through abortion.
-- [Reprocare](https://www.reprocare.com/) — Talkine offering similar support as the other organizations in this list.
+- [Reprocare](https://www.reprocare.com/) — Talkline offering similar support as the other organizations in this list.
 
 ## Legal Support
 
 - [If/When/How](https://ifwhenhow.org/) — Provides legal support and advocacy for reproductive justice cases.
-- [Repro Legal Helpline](https://reprolegalhelpline.org/) — Another project of If/When/How.
+- [Repro Legal Helpline](https://reprolegalhelpline.org/) — Legal helpline from If/When/How offering support and information.
 - [Abortion Defense Network](https://abortiondefensenetwork.org/) — Network providing legal defense, advice, and funding support for those facing legal risks related to abortion care.
 - [The Lawyering Project](https://lawyeringproject.org/) — Nonprofit legal organization providing litigation, legal guidance, and pro bono support to improve abortion access and protect reproductive health care.
 - [Abortion Access Legal Defense Fund](https://nwlc.org/abortion-access-legal-defense-fund/) — Fund helping cover legal costs for individuals facing civil or criminal consequences related to abortion care.
