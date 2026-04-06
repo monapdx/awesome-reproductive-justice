@@ -54,6 +54,7 @@
 - [Repro Legal Helpline](https://reprolegalhelpline.org/) — Another project of If/When/How.
 - [Abortion Defense Network](https://abortiondefensenetwork.org/) — Network providing legal defense, advice, and funding support for those facing legal risks related to abortion care.
 - [The Lawyering Project](https://lawyeringproject.org/) — Nonprofit legal organization providing litigation, legal guidance, and pro bono support to improve abortion access and protect reproductive health care.
+- [Abortion Access Legal Defense Fund](https://nwlc.org/abortion-access-legal-defense-fund/) — Fund helping cover legal costs for individuals facing civil or criminal consequences related to abortion care.
 
 ## Research & Studies
 
@@ -61,6 +62,7 @@
 - [Guttmacher Institute](https://www.guttmacher.org/) — Research organization focused on reproductive health policy and data.
 - [The United States of Abortion Mazes](https://pudding.cool/2024/10/abortion-mazes/) — Interactive data visualization that represents abortion access across U.S. states as mazes shaped by legal and policy barriers.
 - [What abortion looks like in every state — right now](https://19thnews.org/2022/05/abortion-rights-restrictions-laws-in-your-state/) — State-by-state breakdown of abortion laws and access in the U.S. following the end of Roe v. Wade.
+- [Abortion in the U.S. Dashboard](https://www.kff.org/womens-health-policy/abortion-in-the-u-s-dashboard/) — Interactive dashboard tracking state abortion laws, bans, and legal developments in the post-Roe landscape.
 
 ## Safety & Privacy
 
