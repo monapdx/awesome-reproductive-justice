@@ -17,6 +17,7 @@
 - [Elevated Access](https://www.elevatedaccess.org/) — Volunteer pilot network offering free flights to help patients travel across state lines for abortion care.
 - [Northwest Abortion Access Fund](https://nwaafund.org/) — Regional abortion fund serving Washington, Oregon, Idaho, and Alaska, providing financial assistance, travel support, and lodging for abortion care.
 - [ACCESS Reproductive Justice](https://accessrj.org/) — Provides funding, practical support, referrals, and advocacy to help people access reproductive healthcare, including abortion, in California.
+- [Fund Texas Choice](https://fundtexaschoice.org/) — Nonprofit funding and coordinating travel, lodging, and other practical support for Texans accessing abortion care outside the state.
 
 ## Abortion Pills
 
