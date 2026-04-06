@@ -75,7 +75,7 @@
 
 - [All-Options](https://www.all-options.org/) — Peer support for pregnancy, abortion, adoption, and infertility.
 - [M + A Hotline](https://mahotline.org/) — Miscarriage and abortion hotline run by volunteer clinicians.
-- [Connect & Breathe] — Talkline offering non-judgmental support for people going through abortion.
+- [Connect & Breathe](https://www.connectandbreathe.org/) — Talkline offering non-judgmental support for people going through abortion.
 - [Reprocare](https://www.reprocare.com/) — Talkline offering similar support as the other organizations in this list.
 
 ## Legal Support
