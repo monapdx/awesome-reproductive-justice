@@ -75,7 +75,7 @@
 
 - [All-Options](https://www.all-options.org/) — Peer support for pregnancy, abortion, adoption, and infertility.
 - [M + A Hotline](https://mahotline.org/) — Miscarriage and abortion hotline run by volunteer clinicians.
-- [Connect & Breathe](https://www.connectandbreathe.org/) — Another talkline offering non-judgemental support for people going through abortion.
+- [Connect & Breathe] — Talkline offering non-judgmental support for people going through abortion.
 - [Reprocare](https://www.reprocare.com/) — Talkline offering similar support as the other organizations in this list.
 
 ## Legal Support
@@ -99,15 +99,15 @@
 ## Safety & Privacy
 
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) — Tool from EFF to measure online tracking and browser fingerprinting.
-- [Atlas of Surveillance](https://www.atlasofsurveillance.org/) — This tool (also by EFF) helps cities keep track of the technologies being used by law enforcement.
+- [Atlas of Surveillance] — Tool from the Electronic Frontier Foundation tracking surveillance technologies used by law enforcement.
 - [Guide to Abortion Privacy](https://digitaldefensefund.org/ddf-guides/abortion-privacy) — A useful threat-level detection guide from _Digital Defense Fund_.
 - [DOPo Support](https://www.wearedopo.com/support) — Provides digital privacy and security resources for people seeking abortion care, including guidance on protecting personal data and online activity.
 
 ## Repro Justice Podcasts
 
-- [Feminist Buzzkills Podcast](https://www.aafront.org/fbklive/) — Weekly podcast that drops new episodes on Friday from Lizz Winstead and Moji Alawode-El over at _Abortion Access Front_.
+- [Feminist Buzzkills Podcast](https://www.aafront.org/fbklive/) — Podcast that drops new episodes on Friday from Lizz Winstead and Moji Alawode-El over at _Abortion Access Front_.
 - [We Are Childfree Podcast](https://wearechildfree.com/podcasts/) — Explores childfree lives and perspectives within reproductive autonomy.
-- [Access: A podcast about abortion](https://www.apodcastaboutabortion.com/) — Story-driven podcast focused on real abortion experiences and the broader context of reproductive justice.
+- [Access: A podcast about abortion](https://www.apodcastaboutabortion.com/) — Podcast focused on real abortion experiences and the broader context of reproductive justice.
 - [RePROs Fight Back](https://www.reprosfightback.com/episodes) — Podcast featuring expert interviews and deep dives into reproductive health policy, advocacy, and current issues.
 
 ## Repro Justice Documentaries
