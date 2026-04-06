@@ -52,6 +52,8 @@
 
 - [If/When/How](https://ifwhenhow.org/) — Provides legal support and advocacy for reproductive justice cases.
 - [Repro Legal Helpline](https://reprolegalhelpline.org/) — Another project of If/When/How.
+- [Abortion Defense Network](https://abortiondefensenetwork.org/) — Network providing legal defense, advice, and funding support for those facing legal risks related to abortion care.
+- [The Lawyering Project](https://lawyeringproject.org/) — Nonprofit legal organization providing litigation, legal guidance, and pro bono support to improve abortion access and protect reproductive health care.
 
 ## Research & Studies
 
