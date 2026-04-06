@@ -8,6 +8,7 @@
 
 - [iNeedanA](https://www.ineedana.com/) — Helps users find abortion providers, pills by mail, legal info, and support resources.
 - [AbortionFinder](https://www.abortionfinder.org/) — Directory of verified abortion providers and support resources in the U.S.
+- [Trust Women](https://trustwomen.org/) — Nonprofit operating abortion clinics and providing reproductive and sexual healthcare in underserved regions, along with advocacy to expand access.
 
 ## Abortion Funds
 
@@ -18,6 +19,7 @@
 - [Northwest Abortion Access Fund](https://nwaafund.org/) — Regional abortion fund serving Washington, Oregon, Idaho, and Alaska, providing financial assistance, travel support, and lodging for abortion care.
 - [ACCESS Reproductive Justice](https://accessrj.org/) — Provides funding, practical support, referrals, and advocacy to help people access reproductive healthcare, including abortion, in California.
 - [Fund Texas Choice](https://fundtexaschoice.org/) — Nonprofit funding and coordinating travel, lodging, and other practical support for Texans accessing abortion care outside the state.
+- [Cascades Abortion Support Collective](https://www.cascadesabortionsupport.org/) — Volunteer-run collective providing free logistical, emotional, and informational support for people accessing abortion in Oregon.
 
 ## Abortion Pills
 
@@ -31,7 +33,8 @@
 
 - [2+ Abortions Worldwide](https://www.2plusabortions.com/) — Community supporting people with multiple abortion experiences and challenging stigma.
 - [Repro Uncensored](https://www.reprouncensored.org/) — Tracks censorship of abortion-related content on major platforms.
-- [inroads](https://www.makeinroads.org/) — Global network offering training and resources to reduce abortion stigma. 
+- [inroads](https://www.makeinroads.org/) — Global network offering training and resources to reduce abortion stigma.
+- [Focus on Abortion](https://focusonabortion.org/) — Public education initiative providing accessible information to improve understanding and reduce stigma around abortion.
 
 ## Abortion Storytelling
 
@@ -46,6 +49,8 @@
 - [Planned Parenthood Action Fund](https://www.plannedparenthoodaction.org/act) — Platform for engaging in reproductive rights advocacy through petitions, campaigns, and voter mobilization.
 - [Physicians for Reproductive Health](https://prh.org/) — Network of medical providers advocating for reproductive health care access through education, training, and policy advocacy.
 - [Whole Woman’s Health Alliance](https://www.wholewomanshealthalliance.org/) — Nonprofit providing abortion care, community support, and advocacy focused on expanding access and reducing stigma.
+- [Reproductive Health Access Project](https://www.reproductiveaccess.org/) — Provides clinical resources, training, and advocacy to support healthcare providers delivering abortion and reproductive health services.
+- [Keep Our Clinics](https://keepourclinics.org/) — Fundraising initiative supporting independent abortion clinics with resources for operations, security, legal compliance, and patient care.
 
 ## Emotional Support
 
@@ -70,12 +75,14 @@
 - [The United States of Abortion Mazes](https://pudding.cool/2024/10/abortion-mazes/) — Interactive data visualization that represents abortion access across U.S. states as mazes shaped by legal and policy barriers.
 - [What abortion looks like in every state — right now](https://19thnews.org/2022/05/abortion-rights-restrictions-laws-in-your-state/) — State-by-state breakdown of abortion laws and access in the U.S. following the end of Roe v. Wade.
 - [Abortion in the U.S. Dashboard](https://www.kff.org/womens-health-policy/abortion-in-the-u-s-dashboard/) — Interactive dashboard tracking state abortion laws, bans, and legal developments in the post-Roe landscape.
+- [Ibis Reproductive Health](https://www.ibisreproductivehealth.org/) — Research organization focused on improving access to abortion and reproductive health through clinical and social science research.
 
 ## Safety & Privacy
 
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) — Tool from EFF to measure online tracking and browser fingerprinting.
 - [Atlas of Surveillance](https://www.atlasofsurveillance.org/) — This tool (also by EFF) helps cities keep track of the technologies being used by law enforcement.
 - [Guide to Abortion Privacy](https://digitaldefensefund.org/ddf-guides/abortion-privacy) — A useful threat-level detection guide from _Digital Defense Fund_.
+- [DOPo Support](https://www.wearedopo.com/support) — Provides digital privacy and security resources for people seeking abortion care, including guidance on protecting personal data and online activity.
 
 ## Repro Justice Podcasts
 
