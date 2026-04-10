@@ -67,6 +67,7 @@
 - [#ShoutYourAbortion](https://shoutyourabortion.com/) — Abortion advocacy through narrative and storytelling.
 - [WeTestify](https://wetestify.org/) — Diverse community of abortion storytellers with a focus on underrepresented voices.
 - [Stories for Choice](https://tmiproject.org/storiesforchoice/) — Storytelling initiative sharing personal narratives about reproductive justice.
+- [Your Decision](https://interactives.stuff.co.nz/2019/circuit/your-decision/) — Interactive storytelling experience that explores the emotional, social, and logistical realities of facing an abortion decision.
 
 ## Activism & Advocacy
 
@@ -78,7 +79,6 @@
 - [Reproductive Health Access Project](https://www.reproductiveaccess.org/) — Provides clinical resources, training, and advocacy to support healthcare providers delivering abortion and reproductive health services.
 - [Keep Our Clinics](https://keepourclinics.org/) — Fundraising initiative supporting independent abortion clinics with resources for operations, security, legal compliance, and patient care.
 - [Abortion Academy](https://shoutyourabortion.com/abortion-academy/) — Educational resources, storytelling, and activism tools from Shout Your Abortion focused on destigmatizing abortion experiences.
-- [Your Decision](https://interactives.stuff.co.nz/2019/circuit/your-decision/) — Interactive storytelling experience that explores the emotional, social, and logistical realities of facing an abortion decision.
 
 ## Emotional Support
 
