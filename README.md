@@ -38,6 +38,7 @@
 - [Midwest Access Coalition](https://www.midwestaccesscoalition.org/) — Provides financial, logistical, and travel support for abortion access in the Midwest.
 - [WRRAP (Women’s Reproductive Rights Assistance Project)](https://wrrap.org/) — National nonprofit that helps cover abortion and emergency contraception costs through direct support to clinics.
 - [Northwest Abortion Access Fund](https://nwaafund.org/) — Regional abortion fund serving Washington, Oregon, Idaho, and Alaska, providing financial assistance, travel support, and lodging for abortion care.
+- [Cascades Abortion Support Collective](https://www.cascadesabortionsupport.org/) — Volunteer network offering practical support like transportation, lodging, and care coordination for abortion seekers.
 
 ## Travel & Practical Support
 
@@ -76,6 +77,8 @@
 - [Whole Woman’s Health Alliance](https://www.wholewomanshealthalliance.org/) — Nonprofit providing abortion care, community support, and advocacy focused on expanding access and reducing stigma.
 - [Reproductive Health Access Project](https://www.reproductiveaccess.org/) — Provides clinical resources, training, and advocacy to support healthcare providers delivering abortion and reproductive health services.
 - [Keep Our Clinics](https://keepourclinics.org/) — Fundraising initiative supporting independent abortion clinics with resources for operations, security, legal compliance, and patient care.
+- [Abortion Academy](https://shoutyourabortion.com/abortion-academy/) — Educational resources, storytelling, and activism tools from Shout Your Abortion focused on destigmatizing abortion experiences.
+- [Your Decision](https://interactives.stuff.co.nz/2019/circuit/your-decision/) — Interactive storytelling experience that explores the emotional, social, and logistical realities of facing an abortion decision.
 
 ## Emotional Support
 
@@ -83,6 +86,7 @@
 - [M + A Hotline](https://mahotline.org/) — Miscarriage and abortion hotline run by volunteer clinicians.
 - [Connect & Breathe](https://www.connectandbreathe.org/) — Talkline offering non-judgmental support for people going through abortion.
 - [Reprocare](https://www.reprocare.com/) — Talkline offering similar support as the other organizations in this list.
+- [Exhale Pro-Voice](https://exhaleprovoice.org/) — Emotional support resources, including a talkline, for people processing their abortion experiences without judgment.
 
 ## Legal Support
 
@@ -101,6 +105,10 @@
 - [What abortion looks like in every state — right now](https://19thnews.org/2022/05/abortion-rights-restrictions-laws-in-your-state/) — State-by-state breakdown of abortion laws and access in the U.S. following the end of Roe v. Wade.
 - [Abortion in the U.S. Dashboard](https://www.kff.org/womens-health-policy/abortion-in-the-u-s-dashboard/) — Interactive dashboard tracking state abortion laws, bans, and legal developments in the post-Roe landscape.
 - [Ibis Reproductive Health](https://www.ibisreproductivehealth.org/) — Research organization focused on improving access to abortion and reproductive health through clinical and social science research.
+- [The Turnaway Study](https://www.ansirh.org/research/ongoing/turnaway-study) — Longitudinal research tracking the impacts of receiving or being denied an abortion on people’s health, finances, and lives.
+- [Dobbs Impact Study](https://carepostroe.ucsf.edu/) — Research initiative tracking the real-world effects of post-Roe abortion restrictions on access, health, and inequality.
+- [Disinformation Station](https://weareultraviolet.org/our-work/disinformation-station/#p-9) — Campaign exposing and countering abortion-related misinformation, particularly from crisis pregnancy centers.
+- [How far is too far? An analysis of driving times to abortion clinics in the U.S.](https://pudding.cool/2017/09/clinics/) — Data-driven visualization examining geographic barriers and travel distances to abortion access across the United States.
 
 ## Safety & Privacy
 
