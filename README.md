@@ -10,19 +10,19 @@
 
 ## Contents
 
-- Abortion Clinics
-- Abortion Funds
-- Travel & Practical Support
-- Abortion Pills
-- Abortion Stigma
-- Abortion Storytelling
-- Activism & Advocacy
-- Emotional Support
-- Legal Support
-- Laws, Policy & Data
-- Safety & Privacy
-- Repro Justice Podcasts
-- Repro Justice Documentaries
+- [Abortion Clinics](#abortion-clinics)
+- [Abortion Funds](#abortion-funds)
+- [Travel & Practical Support](#travel--practical-support)
+- [Abortion Pills](#abortion-pills)
+- [Abortion Stigma](#abortion-stigma)
+- [Abortion Storytelling](#abortion-storytelling)
+- [Activism & Advocacy](#activism--advocacy)
+- [Emotional Support](#emotional-support)
+- [Legal Support](#legal-support)
+- [Laws, Policy & Data](#laws-policy--data)
+- [Safety & Privacy](#safety--privacy)
+- [Repro Justice Podcasts](#repro-justice-podcasts)
+- [Repro Justice Documentaries](#repro-justice-documentaries)
 
 👉 [Submit a resource](https://github.com/monapdx/awesome-reproductive-justice/issues/new?template=resource-suggestion.yml)
 
