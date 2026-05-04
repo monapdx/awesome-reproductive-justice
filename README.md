@@ -97,6 +97,7 @@
 - [Dobbs Impact Study](https://carepostroe.ucsf.edu/) — Research initiative tracking the real-world effects of post-Roe abortion restrictions on access, health, and inequality.
 - [Disinformation Station](https://weareultraviolet.org/our-work/disinformation-station/#p-9) — Campaign exposing and countering abortion-related misinformation, particularly from crisis pregnancy centers.
 - [How far is too far? An analysis of driving times to abortion clinics in the U.S.](https://pudding.cool/2017/09/clinics/) — Data-driven visualization examining geographic barriers and travel distances to abortion access across the United States.
+- [Beyond Roe (Prosecuting Pregnancy)](https://www.themarshallproject.org/tag/beyond-roe) — A reporting series by The Marshall Project examining the criminalization of pregnancy in the post-*Roe v. Wade* era, including how hospitals, law enforcement, and state policies are increasingly surveilling and prosecuting pregnant people.
 
 ## Safety & Privacy
 
