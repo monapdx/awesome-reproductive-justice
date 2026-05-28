@@ -31,7 +31,7 @@
 - [Cascades Abortion Support Collective](https://www.cascadesabortionsupport.org/) — Volunteer-run collective providing free logistical, emotional, and informational support for people accessing abortion in Oregon.
 - [ACCESS Reproductive Justice](https://accessrj.org/) — Provides funding, practical support, referrals, and advocacy to help people access reproductive healthcare, including abortion, in California.
 
-## Abortion Pills
+## <img src="https://raw.githubusercontent.com/monapdx/awesome-reproductive-justice/refs/heads/main/pills.gif" width="30"> Abortion Pills
 
 - [Women on Web](https://www.womenonweb.org/en/home-en/) — Provides abortion pills by mail internationally.
 - [HeyJane](https://www.heyjane.com/) — Offers virtual consultations and telehealth options for obtaining abortion pills.
