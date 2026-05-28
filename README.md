@@ -53,7 +53,7 @@
 - [Stories for Choice](https://tmiproject.org/storiesforchoice/) — Storytelling initiative sharing personal narratives about reproductive justice.
 - [Your Decision](https://interactives.stuff.co.nz/2019/circuit/your-decision/) — Interactive storytelling experience that explores the emotional, social, and logistical realities of facing an abortion decision.
 
-## Activism & Advocacy
+## <img src="https://raw.githubusercontent.com/monapdx/awesome-reproductive-justice/refs/heads/main/care.gif" width="30"> Activism & Advocacy
 
 - [Reproaction](https://reproaction.org/) — Provides training, campaigns, and resources for abortion rights activism.
 - [Ultraviolet](https://weareultraviolet.org/) — An advocacy and activism powerhouse for reproductive justice and feminist causes.
