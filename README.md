@@ -10,13 +10,13 @@
 
 [![Clinics](https://img.shields.io/badge/%F0%9F%A9%BA%20Clinics-ed0d92?style=for-the-badge)](https://github.com/monapdx/awesome-reproductive-justice#abortion-clinics) [![Funds](https://img.shields.io/badge/%F0%9F%92%B8Funds-ed0d92?style=for-the-badge)](https://github.com/monapdx/awesome-reproductive-justice#abortion-funds) [![Travel & Practical Support](https://img.shields.io/badge/%E2%9C%88%EF%B8%8F%20Travel%20%26%20Practical%20Support-ed0d92?style=for-the-badge)](https://github.com/monapdx/awesome-reproductive-justice#travel--practical-support) [![Pills](https://img.shields.io/badge/%F0%9F%92%8A%20Pills-ed0d92?style=for-the-badge)](https://github.com/monapdx/awesome-reproductive-justice#abortion-pills) [![Stigma](https://img.shields.io/badge/%F0%9F%8C%8D%20Stigma-ed0d92?style=for-the-badge)](https://github.com/monapdx/awesome-reproductive-justice#abortion-stigma) [![Storytelling](https://img.shields.io/badge/%F0%9F%92%AC%20Storytelling-ed0d92?style=for-the-badge)](https://github.com/monapdx/awesome-reproductive-justice#abortion-storytelling) [![Activism & Advocacy](https://img.shields.io/badge/%F0%9F%93%A3Activism%20%26%20Advocacy-ed0d92?style=for-the-badge)](https://github.com/monapdx/awesome-reproductive-justice#activism--advocacy) [![Emotional Support](https://img.shields.io/badge/%E2%98%8E%EF%B8%8F%20Emotional%20Support-ed0d92?style=for-the-badge)](https://github.com/monapdx/awesome-reproductive-justice#emotional-support) [![Legal Support](https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F%20Legal%20Support-ed0d92?style=for-the-badge)](https://github.com/monapdx/awesome-reproductive-justice#legal-support) [![Laws, Policy & Data](https://img.shields.io/badge/%F0%9F%93%8A%20Laws%2C%20Policy%20%26%20Data-ed0d92?style=for-the-badge)](https://github.com/monapdx/awesome-reproductive-justice#laws-policy--data) [![Safety & Privacy](https://img.shields.io/badge/%F0%9F%94%92%20Safety%20%26%20Privacy-ed0d92?style=for-the-badge)](https://github.com/monapdx/awesome-reproductive-justice#safety--privacy) [![Podcasts](https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F%20Podcasts-ed0d92?style=for-the-badge)](https://github.com/monapdx/90s-collage-maker/issues/new?template=suggest-category.yml) [![Documentaries](https://img.shields.io/badge/%F0%9F%8E%AC%20Documentaries-ed0d92?style=for-the-badge)](https://github.com/monapdx/awesome-reproductive-justice#repro-justice-documentaries)
 
-## Abortion Clinics
+## <img src="https://raw.githubusercontent.com/monapdx/awesome-reproductive-justice/refs/heads/main/hospital.gif" width="30"> Abortion Clinics
 
 - [iNeedanA](https://www.ineedana.com/) — Helps users find abortion providers, pills by mail, legal info, and support resources.
 - [AbortionFinder](https://www.abortionfinder.org/) — Directory of verified abortion providers and support resources in the U.S.
 - [Trust Women](https://trustwomen.org/) — Provides abortion care and reproductive health services in underserved regions, along with advocacy to expand access.
 
-## Abortion Funds
+## <img src="https://raw.githubusercontent.com/monapdx/awesome-reproductive-justice/refs/heads/main/money.gif" width="30"> Abortion Funds
 
 - [National Network of Abortion Funds](https://abortionfunds.org/) — Network of grassroots funds helping patients cover abortion and related care costs.
 - [Midwest Access Coalition](https://www.midwestaccesscoalition.org/) — Provides financial, logistical, and travel support for abortion access in the Midwest.
@@ -24,7 +24,7 @@
 - [Northwest Abortion Access Fund](https://nwaafund.org/) — Regional abortion fund serving Washington, Oregon, Idaho, and Alaska, providing financial assistance, travel support, and lodging for abortion care.
 - [Cascades Abortion Support Collective](https://www.cascadesabortionsupport.org/) — Volunteer network offering practical support like transportation, lodging, and care coordination for abortion seekers.
 
-## Travel & Practical Support
+## <img src="https://raw.githubusercontent.com/monapdx/awesome-reproductive-justice/refs/heads/main/transport.gif" width="30"> Travel & Practical Support
 
 - [Elevated Access](https://www.elevatedaccess.org/) — Volunteer pilot network offering free flights to help patients travel across state lines for abortion care.
 - [Fund Texas Choice](https://fundtexaschoice.org/) — Nonprofit funding and coordinating travel, lodging, and other practical support for Texans accessing abortion care outside the state.
